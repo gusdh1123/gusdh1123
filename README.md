@@ -46,7 +46,7 @@
 
 ## 📫 Contact
 - 📧 Email: your.email@example.com  
-- 📌 Blog: [https://yourblog.com](https://yourblog.com)  
+- 📌 Blog: [노션 블로그](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
 - 💼 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
 
 <div align="center">
