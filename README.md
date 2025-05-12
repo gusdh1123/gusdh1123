@@ -28,8 +28,7 @@
 ## 🗂 Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 📝 **게시판 프로젝트** | 회원가입, 로그인, 게시글 CRUD, 프로필 기능 포함 | Spring Boot, JPA, MySQL |
-| 💬 **팀 프로젝트** | 실시간 채팅, 마이페이지, 소셜 로그인 등 구현 | Spring Boot, AWS, MySQL |
+| 🛋️ **인테리어 커뮤니티 & 쇼핑몰 플랫폼** | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 기반 쇼핑몰 구현 | Spring Boot, MyBatis, Oracle, AWS, Docker |
 
 > 📌 팀원과 함께 협업하며 기획, 개발, 발표까지 전 과정에 참여했습니다.  
 > 어려운 순간에도 함께 성장하며 팀워크의 중요성을 배웠습니다.
@@ -37,17 +36,20 @@
 ---
 
 ## 📚 About Me
-- 🎓 최근 IT 교육과정 수료 (6개월)
-- ✨ 사용성과 성능을 고려한 **실용적인 개발**을 추구합니다.
-- 📈 **끊임없는 학습과 성장**을 목표로 합니다.
-- 💬 협업을 중요하게 생각하며, 함께 배우는 개발 문화를 좋아합니다.
+- 🔍 단순한 업무보다 **문제 해결과 창의성**을 발휘할 수 있는 개발에 매력을 느껴 진로를 바꾸게 되었습니다.
+- 💡 개발을 공부하면서 컴퓨터 구조, 메모리 처리 등 깊이 있는 개념들을 배우며 더 큰 흥미를 느꼈고, **친구와 선의의 경쟁**을 통해 함께 성장해 왔습니다.
+- 👨‍💻 팀 프로젝트에서는 게시판 CRUD, 소셜 로그인, Ajax 댓글, 좋아요/팔로우 기능 등 **실전 중심의 개발 경험**을 쌓았고, AWS EC2와 Docker를 활용한 배포 경험도 보유하고 있습니다.
+- 🧠 **책임감 있고 침착한 성격**으로 고객 응대 아르바이트에서 다양한 상황을 유연하게 해결한 경험이 있습니다.
+- 🎭 자신감 부족을 극복하기 위해 연극 활동에 도전했으며, 이를 통해 **소통 능력과 협업 능력**을 향상시켰습니다.
+- 📚 현재는 학점은행제를 통해 **컴퓨터공학 학위와 자격증**을 준비하며, 꾸준한 학습과 자기계발에 힘쓰고 있습니다.
+- 🌱 최신 기술 트렌드를 따라가며 **문제 해결 능력과 전문성**을 키워나가고 있습니다. 팀워크를 중요하게 생각하며 함께 성장하는 개발자가 되고자 합니다.
 
 ---
 
 ## 📫 Contact
-- 📧 Email: your.email@example.com  
-- 📌 Blog: [노션 블로그](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
-- 💼 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: gusdh4463@gmail.com
+- 📌 Blog: [노션 블로그](https://www.notion.so/Study-1dcabca3cb1480ba970ad00740b46cd3?pvs=4)
+- 💼 Resume: [노션 이력서](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
