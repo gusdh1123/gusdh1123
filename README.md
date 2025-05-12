@@ -52,7 +52,7 @@
 - 📌 Blog: [노션 블로그](https://www.notion.so/Study-1dcabca3cb1480ba970ad00740b46cd3?pvs=4)
 - 💼 Resume: [노션 이력서](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
 
-![gusdh1123 GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdh1123&show_icons=true&theme=radical)
+![gusdh1123 GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdh1123&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdh1123&layout=compact)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
