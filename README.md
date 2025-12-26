@@ -55,7 +55,7 @@
 
 ---
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdh1123&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdh1123&layout=compact)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdh1123&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdh1123&layout=compact) -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
