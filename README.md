@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20a%20Backend%20Developer!&fontSize=35&fontAlign=50&fontColor=ffffff" />
 
   <h3>👋 안녕하세요! 저의 GitHud에 오신 것을 환영합니다!</h3>
-  <p>배우고, 협업하며 문제를 해결하는 신입 백엔드 개발자입니다.</p>
+  <p>배우고, 협업하며 문제를 해결하며 성장하는 신입 백엔드 개발자입니다.</p>
 
 </div>
 
