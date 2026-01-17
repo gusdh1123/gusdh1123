@@ -31,7 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Ajax](https://img.shields.io/badge/Ajax-2C2255?style=flat&logoColor=white)
-![Summernote](https://img.shields.io/badge/Summernote-4A90E2?style=flat&logoColor=white)
 
 ### 🛢 **Database**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
