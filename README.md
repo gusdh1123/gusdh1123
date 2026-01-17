@@ -26,14 +26,15 @@
 ### 🛠 **Tools & IDE**  
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) ![STS](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F?style=flat&logo=spring&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
+### ✔ Studying / Able to Use
+
 ---
 
 ## 🗂 Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 기반 쇼핑몰 구현 | Spring Boot, MyBatis, Oracle, AWS, Docker |
-
-> 📌 팀원과 함께 협업하며 기획, 개발, 발표까지 전 과정에 참여하였으며, 어려운 순간에도 함께 성장하며 팀워크의 중요성을 배웠습니다.
+| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Spring Boot, MyBatis, Oracle, AWS, Docker |
+> 📌 기획부터 개발·배포까지 전 과정을 직접 경험하며, 백엔드 구조 설계와 협업 능력을 키운 프로젝트입니다.
 
 [<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
 
