@@ -60,7 +60,7 @@
 ## 🗂 Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Java, Spring Boot, MyBatis, Ajax, JSP/JSTL, JavaScript, jQuery, Oracle, AWS EC2, Docker, OAuth 2.0 |
+| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0 |
 > 📌 기획부터 개발·배포까지 전 과정을 직접 경험하며, 백엔드 구조 설계와 협업 능력을 키운 프로젝트입니다.
 
 [<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
