@@ -29,11 +29,11 @@
 ## 🗂 Projects
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🛋️ [**인테리어 커뮤니티 & 쇼핑몰 플랫폼**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 기반 쇼핑몰 구현 | Spring Boot, MyBatis, Oracle, AWS, Docker |
+| 🛋️ [**내일의 집(인테리어 커뮤니티 & 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 기반 쇼핑몰 구현 | Spring Boot, MyBatis, Oracle, AWS, Docker |
 
 > 📌 팀원과 함께 협업하며 기획, 개발, 발표까지 전 과정에 참여하였으며, 어려운 순간에도 함께 성장하며 팀워크의 중요성을 배웠습니다.
 
-![image](https://github.com/user-attachments/assets/353cf5ee-4d83-4a48-afe7-93a20f5df6c3)
+![image](https://github.com/user-attachments/assets/353cf5ee-4d83-4a48-afe7-93a20f5df6c3)(http://www.naeilhomeshop.kro.kr/)
 
 ---
 
