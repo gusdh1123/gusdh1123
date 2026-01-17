@@ -35,7 +35,7 @@
 
 > 📌 팀원과 함께 협업하며 기획, 개발, 발표까지 전 과정에 참여하였으며, 어려운 순간에도 함께 성장하며 팀워크의 중요성을 배웠습니다.
 
-[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="750"/>](http://www.naeilhomeshop.kro.kr/)
+[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
 
 ---
 
