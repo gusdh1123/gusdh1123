@@ -80,10 +80,11 @@
 
 ---
 
-## 📫 Contact
+<!-- ## 📫 Contact
 - 📧 Email: gusdh4463@gmail.com
 - 📌 Blog: [노션 블로그](https://www.notion.so/Study-1dcabca3cb1480ba970ad00740b46cd3?pvs=4)
 - 💼 Resume: [노션 이력서](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
+-->
 <!--
 ---
 
