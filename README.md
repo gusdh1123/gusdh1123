@@ -4,8 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20HyunO!&fontSize=35&fontColor=ffffff" />
 
-### 👋 신입 백엔드 개발자 송현오입니다.
-문제 해결을 즐기며 성장하는 신입 백엔드 개발자입니다. 꾸준한 학습과 협업을 바탕으로 더 나은 개발자를 목표로 하고 있습니다.
+### 👋 안녕하세요, 신입 백엔드 개발자 송현오입니다.
+Java/Spring 기반 웹 서비스를 팀 프로젝트로 개발했으며,
+회원·인증·게시판 기능을 구현했습니다.
 
 </div>
 
