@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20HyunO!&fontSize=35&fontColor=ffffff" />
 
-### 👋 안녕하세요, 신입 개발자 송현오입니다.
+### 👋 안녕하세요, 신입 백엔드 개발자 송현오입니다.
 </div>
 
 ---
