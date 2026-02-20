@@ -62,6 +62,13 @@
 
 [<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
 
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏢 [**WorkFlow (사내 업무 관리 시스템)**](https://github.com/gusdh1123/WorkFlow.git) | 사내 업무 관리 기능 구현 (진행 중) | Java, Spring Boot, Spring Security, JWT, JPA, React, PostgreSQL |
+> 📌 현재 진행 중이며, 기능 추가 및 시연 이미지 업데이트 예정
+
+<img width="838" height="195" alt="Logo" src="https://github.com/user-attachments/assets/8a2f5177-8456-4439-87e5-68ba5f843c8c" />
+
 ---
 
 ## 🙋‍♂️ About Me
