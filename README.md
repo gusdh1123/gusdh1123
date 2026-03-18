@@ -64,7 +64,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏢 [**WorkFlow(v1.0, 사내 업무 관리 시스템)**](https://github.com/gusdh1123/WorkFlow.git) | 사내 업무 관리 기능 구현 (진행 중) | Java, Spring Boot, Spring Security, JWT, JPA, React, PostgreSQL |
+| 🏢 [**WorkFlow(v1.0 예정, 사내 업무 관리 시스템)**](https://github.com/gusdh1123/WorkFlow.git) | 사내 업무 관리 기능 구현 (진행 중) | Java, Spring Boot, Spring Security, JWT, JPA, React, PostgreSQL |
 > 📌 처음 사용하는 기술 스택을 학습하기 위해 시작한 프로젝트로, 기능을 확장하며 지속적으로 개발을 진행하고 있습니다.
 
 <img width="838" height="195" alt="Logo" src="https://github.com/user-attachments/assets/8a2f5177-8456-4439-87e5-68ba5f843c8c" />
