@@ -57,12 +57,6 @@
 ---
 
 ## 🗂 Projects
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0 |
-> 📌 사용자 간 인테리어 아이디어 공유와 상품 구매를 자연스럽게 연결한 웹 서비스입니다.
-
-[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -71,20 +65,25 @@
 
 <img width="838" height="195" alt="Logo" src="https://github.com/user-attachments/assets/8a2f5177-8456-4439-87e5-68ba5f843c8c" />
 
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0 |
+> 📌 사용자 간 인테리어 아이디어 공유와 상품 구매를 자연스럽게 연결한 웹 서비스입니다.
+
+[<img src="https://github.com/user-attachments/assets/9a07b400-d44f-4127-a809-dabaa7c8b3ab" width="1020"/>](http://www.naeilhomeshop.kro.kr/)
+
 ---
 
 ## 📫 Contact
 - 📧 Email: gusdh4463@gmail.com
-- 💼 Resume: [Notion 이력서](https://www.notion.so/1ddabca3cb148046a26ac68b6db92f18?pvs=4)
-- 🔗 Blog / Portfolio: [노션 블로그](https://www.notion.so/Study-1dcabca3cb1480ba970ad00740b46cd3?pvs=4)
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdh1123&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusdh1123&layout=compact)
 
---- -->
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
