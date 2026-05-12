@@ -97,7 +97,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🏢 [**WorkFlow(사내 업무 관리 시스템)**](https://github.com/gusdh1123/WorkFlow.git) | 사내 업무 관리 기능 구현 | Java, Spring Boot, Spring Security, JWT, JPA, React, PostgreSQL |
-> 📌 백엔드 학습을 기반으로 업무 흐름, 권한 및 이력 관리를 중심으로 설계한 사내 업무 관리 시스템입니다.
+> 📌 업무 흐름, 권한 및 이력 관리를 중심으로 설계한 사내 업무 관리 시스템입니다.
 
 <img width="838" height="195" alt="Logo" src="https://github.com/user-attachments/assets/8a2f5177-8456-4439-87e5-68ba5f843c8c" /><br>
 
