@@ -65,6 +65,8 @@
 
 <img width="838" height="195" alt="Logo" src="https://github.com/user-attachments/assets/8a2f5177-8456-4439-87e5-68ba5f843c8c" />
 
+
+
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🛋️ [**내일의 집(커뮤니티 기반 인테리어 쇼핑몰 플랫폼)**](https://github.com/gusdh1123/naeilhome) | 게시글 CRUD, 소셜 로그인, 마이페이지, 찜하기 등 커뮤니티 + 쇼핑몰 기능 구현 | Java, Spring Boot, MyBatis, JSP/JSTL, JavaScript(jQuery, Ajax), Oracle DB, OAuth 2.0 |
