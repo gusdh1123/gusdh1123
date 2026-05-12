@@ -9,7 +9,7 @@
 
 ---
 
-## 🧰 Tech Stack
+<!-- ## 🧰 Tech Stack
 
 ### 💻 **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -53,6 +53,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+-->
 
 ---
 
